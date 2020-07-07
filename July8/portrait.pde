@@ -79,7 +79,7 @@ triangle(90,485,120,500,110,510);
 //face
 fill(#4F3718);
 ellipse(325, 480, 60,40);
-//nose
+//muzzle
 fill(#DDC2F3);
 ellipse(325, 485, 15,10);
 fill(#4F3718);
@@ -92,7 +92,7 @@ fill(#DDC2F3);
 circle(315,475,8);
 fill(#DDC2F3);
 circle(335,475,8);
-
+//nose
 fill(#4F3718);
 ellipse(325, 485, 6,4);
 
