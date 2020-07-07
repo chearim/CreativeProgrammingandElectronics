@@ -7,4 +7,4 @@ My favorite place to be is alone in my headspace while creating art. This includ
 
 ![image](/July8/selfportrait.png)
 
-A challenge I faced was readjusting the (0,0) coordinate in the upper left hand corner. I also wish there was a way to pin-point an exact coordinate using a ruler...perhaps there is a function for that. 
+A challenge I faced was adjusting to the (0,0) coordinate in the upper left hand corner. I also wish there was a way to pin-point an exact coordinate using a ruler...perhaps there is a function for that. 
