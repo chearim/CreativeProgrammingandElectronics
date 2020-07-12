@@ -14,10 +14,11 @@ To do this, I made the shape's width/raidus into a variable and increased it rep
 
 You can use a for loop to draw the same shape that decreases in size. 
 
-* overlap the shapes 
+* Overlap the shapes 
 
 Draw without calling the background again
 
 
 **Challenges**
+
 Loops are something I struggle with but this assignment helped me realize how useful they are. Without them, we would need to draw each shape individually. Transformations also make it easy to translate shapes and rotate the canvas. 
