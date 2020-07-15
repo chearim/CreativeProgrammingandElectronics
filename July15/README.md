@@ -2,7 +2,7 @@
 # Game (The Journey) 
 
 Recently, I came across a mobile game called Sky Children and fell in love with the story and graphics. Here is a screenshot of what it looks like.   
-![image](/July13/porta.png)
+![image](/July15/sky.png)
 
 With a twist of my own, I programmed a game that has that same serene nature to it. As you can tell, my character was laregly based off of the sky children. My other inspiration was the Google Dinosaur game. 
 ![image](/July13/porta.png)
