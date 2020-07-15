@@ -5,8 +5,11 @@ Recently, I came across a mobile game called Sky Children and fell in love with 
 ![image](/July15/sky.png)
 
 With a twist of my own, I programmed a game that has that same serene nature to it. As you can tell, my character was laregly based off of the sky children. My other inspiration was the Google Dinosaur game. 
-![image](/July13/porta.png)
+![image](/July15/game.png)
 
+Here are some character designs that I also made.
+
+![image](/July15/character.tif)
 
 
 
