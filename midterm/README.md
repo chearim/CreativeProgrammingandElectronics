@@ -1,24 +1,19 @@
 
 # The Journey pt2
 
-As a cognitive scientist, I was always interested in optical illusions that are able to trick our highly complex brains. This is a video with some exmaples of famous optical illusions (https://www.youtube.com/watch?v=HHeYxzJFVKM). As you can see, our perceptions often doesn't match what is happening in reality. Subtle changes in light, colors, or patterns can also cause an art piece to look totally different. In my case, changing the stroke made an illusion of 4 petals stemming from the center. Because of this resulting design, I decided to choose rose related colors (red, pink, dark green). I also thought it looked like a portal opening up to another world, hence the title of my work. 
+For the midterm, I decided to improve the game I built last week. I felt that I would learn more by working on the parts I couldn't figure out the first time instead of starting a new game.  
 
-![](/July13/portal.png)
+**Improvements**
 
-**Rules:**
-* Create a shape and make it grow in size
+I added a title page to introduce my game and instruct the user on how to play. I also managed to draw the stars so that the game is overall more aesthetically pleasing. Furthermore, the player's score will be tracked and displayed at the end of the game. A restart option is also available when the game ends. 
 
-To do this, I made the shape's width/raidus into a variable and increased it repeatedly.
+Here is a gif of the game play. 
 
-* Repeat these shapes one after another 
-
-You can use a for loop to draw the same shape that decreases in size. 
-
-* Overlap the shapes 
-
-Draw without calling the background again
+![the journey](/midterm/journey.gif)
 
 
 **Challenges**
+I wanted to randomize the obstacle locations however, that often led to them being overlapped and not allowing the character to land the jump. That is why I left the locations as they were. 
 
-Loops are something I struggle with but this assignment helped me realize how useful they are. Without them, we would need to draw each shape individually. Transformations also make it easy to translate shapes and rotate the canvas. 
+Originally, I wanted the stars to be in a static position but I actually like how they ended up moving to the left at different speeds.
+ 
