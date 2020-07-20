@@ -5,7 +5,7 @@ For the midterm, I decided to improve the game I built last week. I felt that I 
 
 **Improvements**
 
-I added a title page to introduce my game and instruct the user on how to play. I also managed to draw the stars so that the game is overall more aesthetically pleasing. Furthermore, the player's score will be tracked and displayed at the end of the game. A restart option is also available when the game ends. 
+I added a title page to introduce my game and instruct the user on how to play. I also managed to draw the stars so that the game is overall more aesthetically pleasing. Another detail I wanted to add was background music for a peaceful effect. Furthermore, the player's score will be tracked and displayed at the end of the game. A restart option is also available when the game ends. 
 
 Here is a gif of the game play. 
 
