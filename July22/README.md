@@ -8,6 +8,11 @@ Pictures of my project.
 ![image](/July22/light_sensor.jpg)
 ![image](/July22/light_sensor2.jpg)
 
+Schematic: 
+
+![image](/July22/schematic_light.jpg)
+
+
 A video of my project can be found in my July22 folder. 
 
 
