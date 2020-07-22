@@ -13,4 +13,4 @@ A video of my project can be found in my July22 folder.
 
 **Challenges**
 
-As this was my first time using a breadboard, it was very difficult for me to figure out how to connect my circuit. I knew what to code in my program but drawing the schematic and assembling the components were a different story. 
+As this was my first time using a breadboard, it was very difficult for me to figure out how to connect my circuit. I knew what to code in my program but drawing the schematic and assembling the components was a different story. 
