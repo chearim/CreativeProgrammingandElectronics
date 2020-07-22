@@ -5,11 +5,12 @@ For this assignment, I made a light sensor that read information from a photorec
 
 Pictures of my project. 
 
-![image](/July22/portal.png)
+![image](/July22/light_sensor.jpg)
+![image](/July22/light_sensor2.jpg)
 
 A video 
 
-![video](/July22/portal.png)
+![video](/July22/light_sensor.MOV)
 
 
 **Challenges**
