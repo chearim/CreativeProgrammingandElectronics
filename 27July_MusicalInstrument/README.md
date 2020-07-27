@@ -2,7 +2,7 @@
 
 **Description of Project**
 
-Link to video: https://bit.ly/2Z1Tn6d
+Link to video: shorturl.at/otCLZ
 
 During quarantine, I have recently picked up an old hobby: piano. I have been enjoying playing again so much that I decided to make an ultrasonic one along with a metronome. This way I can even play at my desk :) !
 
