@@ -1,7 +1,7 @@
 
 # Game (The Journey) pt3 
 
-For the final part of this game, I added a tactile button using arduino so that I can control my character without the use of my keyboard. Ever since I was little, I played with my gameboy so creating this project was very exciting!
+For the final part of this game, I added a tactile button using arduino so that I can control my character without the use of a keyboard. Ever since I was little, I played with my gameboy so creating this project was very exciting!
 ![game_button](/July29/game_button.jpg)
 
 
