@@ -21,6 +21,10 @@ Link to video: https://www.youtube.com/watch?v=xxnOwGT4WW4
 
 I think the most challenging part was constructing the planter so that no water is able to get into it while the plant is being watered. To make sure that doesn't happen, I braided all of the wires to organize them and wrapped the bottom of the planter in a plastic baggie. I also made an outer protective layer with cardboard and foil to make sure it doesn't spill in from the sides. 
 
+**Tricks**
+
+For the live presentation, I couldn't really demonstrate changes in temperature quickly so I used my keyboard to change the animated faces. 
+
 
 
 
