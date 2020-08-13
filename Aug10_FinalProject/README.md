@@ -13,7 +13,7 @@ I started working on the code first, making sure I get a good reading on the tem
 Inside, I assembled the wires and made sure there was ample space for the plant to fit. 
 
 ![inspiration](/Aug10_FinalProject/progress2.jpg)
-![inspiration](/Aug10_FinalProject/progress 3.jpg)
+![inspiration](/Aug10_FinalProject/progress3.jpg)
 
 Here's the finished product: 
 
