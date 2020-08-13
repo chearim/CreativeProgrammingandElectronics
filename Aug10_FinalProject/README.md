@@ -17,7 +17,7 @@ Inside, I assembled the wires and made sure there was ample space for the plant 
 
 Here's the finished product: 
 
-![inspiration](/Aug10_FinalProject/product.jpg)
+![inspiration](/finalProjectSummer2020/enticing_photo.jpg)
 
 I decided to name my smart planter Ada as tribute to the adafruit library and becuase the name "Ada" means help. 
 
