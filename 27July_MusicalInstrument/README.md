@@ -10,7 +10,6 @@ During quarantine, I have recently picked up an old hobby: piano. I have been en
 
 To turn on the instrument, I installed a switch that stays on or off. Once turned on, a metronome made of a medal chopstick and a glass cup starts to make a beat. I then press a button to start playing the piano.  
 
-![closeup of electronics](/27July_MusicalInstrument/closeup.jpg)
 ![closeup of electronics](/27July_MusicalInstrument/closeup2.jpg)
 ![closeup of electronics](/27July_MusicalInstrument/closeup3.jpg)
 
