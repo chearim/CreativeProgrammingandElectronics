@@ -13,7 +13,7 @@ To turn on the instrument, I installed a switch that stays on or off. Once turne
 ![closeup of electronics](/27July_MusicalInstrument/closeup2.jpg)
 ![closeup of electronics](/27July_MusicalInstrument/closeup3.jpg)
 
-![schematic](/27July_MusicalInstrument/sky.png)
+![schematic](/27July_MusicalInstrument/schematic.png)
 
 **Challenges**
 
